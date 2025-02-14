@@ -49,3 +49,6 @@ desktop.ini
 /wp-trackback.php
 /xmlrpc.php
 /.htaccess
+
+# Media Content
+wp-content/uploads/
